@@ -45,7 +45,7 @@
   ],
   "icons": [
     {
-      "src": "blob:https://www.pwabuilder.com/8ccd44ff-4235-4785-9f6a-04453e8f9dbe",
+      "src": "favicon.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
