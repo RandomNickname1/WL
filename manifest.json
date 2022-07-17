@@ -12,17 +12,6 @@
   "background_color": "#FFFFFF",
   "related_applications": [],
   "prefer_related_applications": false,
-  "screenshots": [
-    {
-      "src": "assets/screen.png"
-    },
-    {
-      "src": "assets/screen.png"
-    },
-    {
-      "src": "assets/screen.png"
-    }
-  ],
   "features": [
     "Cross Platform",
     "low-latency inking",
@@ -35,12 +24,6 @@
       "short_name": "Start Live",
       "description": "Jump direction into starting or joining a live session",
       "url": "/?startLive",
-      "icons": [
-        {
-          "src": "icons/android/maskable_icon_192.png",
-          "sizes": "192x192"
-        }
-      ]
     }
   ],
   "icons": [
