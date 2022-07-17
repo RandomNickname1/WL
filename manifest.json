@@ -18,14 +18,6 @@
     "fast",
     "useful AI"
   ],
-  "shortcuts": [
-    {
-      "name": "Start Live Session",
-      "short_name": "Start Live",
-      "description": "Jump direction into starting or joining a live session",
-      "url": "/?startLive",
-    }
-  ],
   "icons": [
     {
       "src": "favicon.png",
